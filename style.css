@@ -47,7 +47,7 @@ body{
     margin-top: 5rem;
     z-index: 2;
 }
-/* .circle{
+.circle{
     height: 20rem;
     width: 20rem;
     background: linear-gradient(
@@ -57,10 +57,14 @@ body{
     position: absolute;
     border-radius: 50%;
     z-index: 1;
-} */
+}
 .info h1{
     height: 3rem;
+    margin-left: 40%;
+    justify-content: center;
+    align-items: center;
 }
+
 .info h3{
     height: 1.5rem;
     padding: 2rem 0rem;
